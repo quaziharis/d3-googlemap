@@ -18,9 +18,9 @@ html, body, #map {
   margin: 0;
   padding: 0;
 }
-
+ {
  svg?: any
-
+}
  const svg = this.svg 
       .html('')
       .attr('width', '100%')
